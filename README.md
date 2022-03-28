@@ -1,6 +1,7 @@
-# Programming Project #1:Snake?
-Description: this is a snake game that gets biggger with every apple it eats, and it dies when it touches its body or the edge of the map
-group: Yarel, Christina
+# Programming Project #1:QuizGame?
+Description: the quiz game will ask 5 questions and you have to answer them, after the game it will tell you your score. 
+
+Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 
 # GUI Image #1:
 ! [Start Screen]()
