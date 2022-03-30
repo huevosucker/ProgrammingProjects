@@ -3,8 +3,9 @@ Description: the quiz game will ask 5 questions and you have to answer them, aft
 
 Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 
-# GUI Image #1:
-! [Start Screen] (https://user-images.githubusercontent.com/101122303/160864687-429fd3f7-bcf4-494e-b6af-8906361ae1a1.png)
+## GUI image #1 (start screen)
+
+![Start Screen](https://user-images.githubusercontent.com/101122303/160848471-d2246fd7-0b65-49ad-be6a-2aebc8102462.png)
 
 # GUI Image #2:
 ! [Gameplay]()
