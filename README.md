@@ -7,11 +7,12 @@ Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 
 ![Start Screen](https://user-images.githubusercontent.com/101122303/160848471-d2246fd7-0b65-49ad-be6a-2aebc8102462.png)
 
-# GUI Image #2:
-! [Gameplay]()
-# GUI Image #3:
-! [End of Game]()
-A GUI image is the start screen, gameplay, and the end screen.
+## GUI image #2 (gameplay)
+
+![game play](https://user-images.githubusercontent.com/101122303/160849880-49d36da9-556d-49e4-9491-6e77c0bdcac5.png)
+
+## HUI image #3 (End of game)
+![GAME OVER](https://user-images.githubusercontent.com/101122303/160849986-c90c6612-08b1-4b12-ab7f-775666a80ecb.png)
 
 ## Class Diagram
 https://github.com/huevosucker/ProgrammingProjects/blob/main/images/Untitled%20Diagram.drawio.pdf
