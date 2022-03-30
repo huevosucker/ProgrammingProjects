@@ -12,7 +12,7 @@ Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 A GUI image is the start screen, gameplay, and the end screen.
 
 ## Class Diagram
-![diagram] (https://github.com/huevosucker/ProgrammingProjects/blob/main/images/Untitled%20Diagram.drawio.pdf)
+https://github.com/huevosucker/ProgrammingProjects/blob/main/images/Untitled%20Diagram.drawio.pdf
 # Programming Project #2:
 Description: 
 
