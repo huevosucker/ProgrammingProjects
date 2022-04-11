@@ -18,7 +18,7 @@ Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 
 ## Class Diagram
 https://github.com/huevosucker/ProgrammingProjects/blob/main/images/real.drawio.png
-# Programming Project #1: Vending Machine
+# Programming Project #2: Vending Machine
 Graphic based simulation in which you purchase something from a vending machine.
 
 ## GUI Image #1: start screen
