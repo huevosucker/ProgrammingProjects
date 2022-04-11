@@ -17,7 +17,7 @@ Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 ![GAME OVER](https://user-images.githubusercontent.com/101122303/160924129-cdf307d2-ec82-4a63-a0a8-413bea71c43d.png)
 
 ## Class Diagram
-https://github.com/huevosucker/ProgrammingProjects/blob/main/images/Untitled%20Diagram.drawio.pdf
+https://github.com/huevosucker/ProgrammingProjects/blob/main/images/real.drawio.png
 # Programming Project #2:
 Description: 
 
