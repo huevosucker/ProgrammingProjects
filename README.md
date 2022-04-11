@@ -1,5 +1,5 @@
-# Programming Project #1:QuizGame?
-Description: the quiz game will ask 5 questions and you have to answer them, after the game it will tell you your score. 
+# Programming Project #1:Snake
+Description: the snake game is a game were you are a snake, and you are supposed to eat as many apples as you can and grow as large as possible before you die. There is no real way of winning, it is a game were you try to survive as long as possible. you die when the head hits the edge of the map or you hit your body. 
 
 Group Members: Ivan Magdaleno, Yarel Magdaleno, and Christina wu
 
